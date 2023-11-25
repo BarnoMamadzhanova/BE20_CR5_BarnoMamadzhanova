@@ -1,0 +1,82 @@
+
+.nav{
+
+    .logoImg {
+        height: 50px!important;
+        width: 50px!important;
+    }
+}
+
+.footer-navigation{
+    padding: 20px 0px!important;
+
+    .foot-links {
+        display: flex!important;
+        justify-content: start!important;
+        align-items: center!important;
+        margin-bottom: 15px!important;
+
+        .foot-link {
+            text-decoration: none!important;
+            color: black!important;
+
+            &:hover{
+                color: darkgray!important;
+            }
+        }
+    }
+}
+
+.content{
+    margin-top: 220px!important;
+}
+
+.register{
+    margin-top: 100px!important;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2)!important;
+    
+}
+
+.cardImg{
+    height: 220px!important;
+}
+
+
+.myForm{
+    margin-top: 100px!important;
+}
+
+.detail-card{
+    min-height: 80vh!important;
+}
+
+.welcome{
+    margin-top: 100px!important;
+    height: 100px!important;
+
+    .welcomeImg{
+        width: 80px!important;
+        height: 80px!important;
+    }
+}
+
+.senior{
+    text-align: right;
+}
+
+.myCardDet{
+    margin-top: 100px!important;
+    min-height: 40vh!important;
+    
+    .detImg{
+        height: 100%!important;
+    }
+
+}
+
+.index{
+    margin-top: 100px!important;
+}
